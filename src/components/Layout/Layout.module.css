@@ -1,0 +1,23 @@
+.wrapper {
+    background: #ECECEC;
+    padding: 30px;
+    min-height: 100vh;
+}
+
+.logInWrapper {
+    display: flex;
+    justify-content: flex-start; 
+    padding: 1em 0;
+}
+
+.logInButton {
+    margin-right: 0.3em;
+}
+
+.iconBack{
+    background-image : url(../../assets/images/back.png);
+    background-size: cover;
+    display: inline-block;
+    height: 15px;
+    width: 13px;
+}

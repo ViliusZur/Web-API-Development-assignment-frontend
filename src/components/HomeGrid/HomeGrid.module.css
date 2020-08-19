@@ -1,0 +1,7 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    grid-gap: 1em;
+    /*  If you want more control over columns: */
+    /* grid-template-columns: 1fr 1fr 1fr; */
+}
